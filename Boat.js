@@ -13,7 +13,7 @@ class Boat {
     World.add(world, this.body);
   }
   animate() {
-    this.speed += 0.05;
+    this.speed += 0.06;
   }
 
   remove(index) {
